@@ -1,13 +1,10 @@
-- Loading screen angepasst
-- Filinchen aktuelle Commands geschickt
-- Billbaords nochmal angepasst - ideale Größe für die 36 verschiedenen Billboards müssen wir noch anpassen
-- Multicharacter angepasst
-- Job: Bauamt hinzugefügt -> Filinchen added noch ein paar Commands dafür (Garagenplätze kaufen und Garagen kaufen beim Bauamt)
-- Lizenzen angepasst
-- Inventory angepasst
-- Billboard Creator für Filinchen fertig gemacht (Muss noch erklärt werden)
-- Mapupdate
--> Sandy Tankstelle für den ACLS noch cooler gemacht
--> eine weitere geheime Map eingefügt 🙂
-- Loadingscreen hinzugefügt (wird noch angepasst -> Zurzeit läuft an NCS - Song -> Ich lasse mich auch gerne beraten)
-- Schlüsseldienst umgesetzt -> Ist jetzt neben dem ACLS -> Warum? Schaut es euch einfach an, ist wirklich so viel cooler
+> Bugs behoben
+> Spieler erhalten Startkapital nur noch von Einreisebeamten
+> Items, Routen und Verkäufer geprüft
+> Verwirrender Saltychat Screen umgeschrieben!!
+> Buggy gabz 247 vorerst deaktiviert -> Shops sind wieder zugänglich
+> Bankabuse im Flughafen nicht möglich
+> Smartphone URL darf 255 Zeichen nicht überschreiten!!
+> Kleidungsladen im Flughafen umpositioniert
+> Partner Emotes geändert von "Y" auf "Z" (F3 Menü)
+> 
