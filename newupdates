@@ -1,35 +1,70 @@
->> faires Anpassen der Fahrzeuge
-> ALLE Fahrzeuge angepasst! (Feedback!!)
-> Anderes Fahrverhalten, Andere Geschwindigkeiten, Anderes Handling, Tuning ist nun noch relevanter
->> Multijobs mit "J"
->> Polizei Updates
-> Bodycams
-> Ungenutze Fahrzeuge entfernt
+> Radio HUD
+- Radio HUD geändert
+- Custom Radiosender können nun implementiert werden
+-> Dolph FM hinzugefügt
+- Radio als Item hinzugefügt
+- Radio Reichweite angepasst um Bug zu fixen!
+- Radio optimiert
 
->> Maps, Lags und Optimierungen
-> The last train of Los Santos (Bar) hinzugefügt
-> Limeys Juicebar für LS Fresh hinzugefügt
-> Ti-qi-la-la hat nen neuen Anstich bekommen LS Fresh Club Konzept
-> Foodtruck hinzugefügt (Begehbar!)
-> Ladezeitoptimierung
-> Lagfixes
-> LA Mesa PD entfernt
-> Rent a Car bei SIXT!
-> Decals können nun in jedem Binco und Ponsenbys geändert werden
-> Es gibt Händler und es gibt Wanderer und es gibt ......... .......
-> Drugscreator Bugfixes+Update
-> Jobcreator Bugfixes+Update
-> Doorscreator Bugfixes+Datenbankupdate
+> DJ + Jukeboxen
+- Sind nun nicht mehr so laut!
+- Probiert Sie einfach mal aus!
+- Erstellt eure eigene Playlist
+-> Braucht einen Augenblick zu laden
 
->> Inventory Updates
-> Inventory sollte nun schneller öffnen und allgemein besser funktionieren
-> es können nun mehrere Personen gleichzeitig auf ein Inventar z.B. Kofferraum zugreifen
-> Crafting gefixt
-> Zugenähte / Zugeklebte Taschen gefixt
-> Animation zu Inventar hinzugefügt
-> Serverperformance bzgl. Taschen nochmal angepasst
+> Performance
+- Loadingscreen sollte nun schneller sein
+- Busfahrerjob wurde deaktiviert!
+- Multicharacter update auf V4.10
+- Jobs update
+- Maps gefixt und Upgedated
+- Performance durch neues Adminsystem erhöht 
+- Logs verfeinert
+- Serverzeit ist nun Synchron
+- Handyzeit ist nun Synchron
+- Wetter ändert sich nun auch nicht nur Sunny 🙂 (kein Schnee)
+- Neues und verbessertes Cayo
+
+> Kochen
+- Item Overhaul (finds IC raus)
+- Kochbuch?!
+- Supermarkt zugefügt
+
+> Polizei
+- Neues Spielzeug fürs PD
+
+> Allgemein
+- Schach!
+- Fahrräder
+- Ausweiß / Perso nun als Item -> COMAND WIRD ES BALD NICHT MEHR GEBEN!
+- Lizenzen angepasst
+- Payouts angepasst für Jobs 
+
+> Kleidungsupdate
+- ACLS Kleidung
+
+> Telefon
+- Neue Nummer
+- Neues Design
+- performanter (Handy kackt nicht ab!)
+- Multicharfähig
+- Anonyme Anrufe (KEINE ANONYME SMS!!)
+- Klingeltöne
+- Twitter
+- Darknet Chat
+- Kamera (mittelere Maustaste um es zu bewegen)
+- Pinger
+- Leitstellen funktionieren zu 100% -> Leitstellen können per SMS / Anruf oder DISPATCH ÜBER /acls - /lspd - /lsmd erreicht werden!! <- Nutzt das hier
+- Downloadbare Apps
+- Notizen
+- E-Mail
+- und viele Eastereggs
+- Danke @Tony Bee für die Zuarbeitung
 
 
->> Wer das hier liest wird immer schlauer sein als andere 
-Hidden Updates:
-F*** you, and your eyebrows.
+> Geheime finds IC Updates
+- Kranker Shit
+- Versteckter Shit
+- Unglaublicher Shit
+- Einfach zu findender Shit
+- IQ over 9000 Shit (viel Spaß beim Suchen - ist lukrativ) I am the one who knocks
