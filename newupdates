@@ -1,71 +1,159 @@
-> Radio HUD
-- Radio HUD geändert
-- Custom Radiosender können nun implementiert werden
--> Dolph FM hinzugefügt
-- Radio als Item hinzugefügt
-- Radio Reichweite angepasst um Bug zu fixen!
-- Radio optimiert
+Neues Inventory:
+-> Komplett customizable - Wie? -> Klickt unten aufs Zahnrädchen und passt euer Inventar an so wie Ihr es wollt.
+-> Shops haben sich komplett geändert (alle Shops! - alles cleaner und gestreamlined)
+-> METADATEN
+Was heißt das? Das heißt das jegliches Item nicht mehr per DB geladen wird sondern per Skript (performance) Des Weiteren speichert euer Inventory auch seinen Status das heißt generell euren Inhalt
 
-> DJ + Jukeboxen
-- Sind nun nicht mehr so laut!
-- Probiert Sie einfach mal aus!
-- Erstellt eure eigene Playlist
--> Braucht einen Augenblick zu laden
+Haltbarkeit von Waffen:
+Items die einen Zustand haben oder Haltbarkeit haben werden auch so gespeichert
+Ja man muss auch seine Waffen reparieren 🙂
 
-> Performance
-- Loadingscreen sollte nun schneller sein
-- Busfahrerjob wurde deaktiviert!
-- Multicharacter update auf V4.10
-- Jobs update
-- Maps gefixt und Upgedated
-- Performance durch neues Adminsystem erhöht 
-- Logs verfeinert
-- Serverzeit ist nun Synchron
-- Handyzeit ist nun Synchron
-- Wetter ändert sich nun auch nicht nur Sunny 🙂 (kein Schnee)
-- Neues und verbessertes Cayo
+Taschen:
+Das heißt die Tasche ist nun verwendbar und ist eine Art transportables Lager 🙂 TASCHEN LOHNEN SICH JETZT!
 
-> Kochen
-- Item Overhaul (finds IC raus)
-- Kochbuch?!
-- Supermarkt zugefügt
+Kleidungsrad im Inventory als Zusatz:
+Kleidungsrad integriert im Inventory mit geladenem 3D Model
 
-> Polizei
-- Neues Spielzeug fürs PD
+Items sind nun in Gramm und in Kilogramm abgewogen! Das heißt nicht mehr 1, 2, 3, sondern 1.5, 0.5, 3.0 usw.
 
-> Allgemein
-- Schach!
-- Fahrräder
-- Ausweiß / Perso nun als Item -> COMAND WIRD ES BALD NICHT MEHR GEBEN!
-- Lizenzen angepasst
-- Payouts angepasst für Jobs 
-- Carryfunktion
+Kevlarwesten und Ihre Metadaten 
+Falls Ihr einen DC bekommt oder euch einfach ausloggt wird das Inventory eure jetzigen Werte abspeichern und so verliert Ihr nichtmehr die Kelvarwesten
+Kevlarwesten anziehen ist leicht aber wie ziehe ich sie aus? einfach [T] und /resetarmor
 
-> Kleidungsupdate
-- ACLS Kleidung
+Waffen:
+ - kleine Waffen werden nicht öffentlich geführt sondern sind versteckt
+- Große Waffen sind auf dem Rücken getragen - Einfacher für Polizisten sowas auch zu sehen 
+- Haltbarkeit!! - Waffen können kaputt gehen 🙂
+- Waffen sind nun auch anpassbar - Ihr wollt sie komplett Customizen? Das könnt Ihr. Ihr braucht nur ein Wallpaper und einen Link und könnt es so ins game Integrieren (DAS IST NUR CLIENTSEITIG! - Die Waffe wird nur euch so angezeigt - Wenn Ihr sie einem anderen Spieler gebt so sieht er es auch nur wenn Ihr die Waffe draußen habt so wird diese normal angezeigt - ICH HASSE LAGS!)
+Wie? -> Findet es IC heraus 🙂
+Waffenerweiterungen - Jederzeit anpassbar - Wir werden dafür auch noch weitere Updates bringen - Wir müssen noch schauen wie wir das am besten Balancen
 
-> Telefon
-- Neue Nummer
-- Neues Design
-- performanter (Handy kackt nicht ab!)
-- Multicharfähig
-- Anonyme Anrufe (KEINE ANONYME SMS!!)
-- Klingeltöne
-- Twitter
-- Darknet Chat
-- Kamera (mittelere Maustaste um es zu bewegen)
-- Pinger
-- Leitstellen funktionieren zu 100% -> Leitstellen können per SMS / Anruf oder DISPATCH ÜBER /acls - /lspd - /lsmd erreicht werden!! <- Nutzt das hier
-- Downloadbare Apps
-- Notizen
-- E-Mail
-- und viele Eastereggs
-- Danke @Tony Bee für die Zuarbeitung
+Beweismittel:
+Beweismittel waren lange Zeit ein Problem
+Warum?
+Zu OP!
+Um auch der Polizei mehr RP bieten zu können wird das alte Evidencesystem entfernt und durch ein neues etwas generftes Ersetzt
+Das neue Evidencesystem gibt nun die Seriennummer der Waffe, das Kaliber und den Ort aus.
+Das Gericht kann diese Beweiße auch einsehen - Es werden quasi Items erstellt mit METADATEN die man untereinander tauschen kann
+Aktenführung wird so relevanter
+Crimeler können so nicht einfach per Blut identifiziert werden - Warum war das so ein massives Problem?
+Sobald eine Person nur geblutet hat konnte man sofort nachweisen das es um Spieler XY handelt
+Wir wollen es den Crimlern einfacher machen auch mal Crimler zu sein und wir wollen der Polizei auch mal ermöglichen Ermittlungsarbeit auszuspielen und auch den Zivis ermöglichen Ihre eigene Waffe bei der Polizei freiwillig zu regestrieren
 
+Notizblöcke:
+Ja es gibt die Handyapp usw.
+Wolltet Ihr einfach mal versteckte Nachrichten per Notizblock weiterschicken oder einfach reinschreiben worauf Ihr bock habt?
+Ihr könnt auch den Zettel wegwerfen - Die Daten bleiben vorhanden und können von anderen Spielern aufgesammelt werden 🙂
+Mögliche neue RP variante? Who knows
 
-> Geheime finds IC Updates
-- Kranker Shit
-- Versteckter Shit
-- Unglaublicher Shit
-- Einfach zu findender Shit
-- IQ over 9000 Shit (viel Spaß beim Suchen - ist lukrativ) I am the one who knocks
+Warehouses:
+Einfache Lager die Spieler mieten können
+Das Bauamt wird diese Lager vermieten 
+Jeder der den Code kennt hat Zugriff auf ein Lager
+Wollt Ihr mal Crime spielen und einfach eine Übergabe machen ohne anwesend zu sein? 
+Versucht es mal 🙂
+
+Medicitems:
+Heilen nun vernünftig und haben auch Effekte
+Besseres MedicRP
+
+Waffenshop:
+Update der Waffenshops
+Andere Preise und mehr 
+Schaut euch um
+
+Maximalgewicht, Steuerung und mehr:
+Das Maximalgewicht bleibt auf 120 KG
+Items sind nun auf Gramm und Kilogramm unterteilt
+Viele Items erhalten auch Beschreibungen wenn Ihr über diese drüberhovered - entweder für Tipps oder für Easter Eggs wie z. B. JorDN - Zündkerze 
+
+Steuerung:
+Generell gibt es kein "K" mehr vergesst das einfach
+NUR NOCH F2, EGAL OB KOFFERRAUM ODER INVENTAR!
+
+Logs:
+Jegliche Bewegung, Anpassung oder wechsel der Items wird von uns gelogt das heißt Items sind so leichter trackbar und Admins können sowas leichter nachvollziehen
+
+Durchsuchen bzw. Ausrauben:
+Entweder über das F4 Menü oder wenn Ihr es cooler haben wollt mit cooler Animation drückt einfach mal [H] gehalten 
+Um nun jemanden auszurauben müsst Ihr lediglich euer Inventar öffnen wenn jemand die Hände hoch hebt mit [H] gedrück
+Ihr könnt dann so auch Spieler ausrauben / durchsuchen wenn nötig
+
+Mülltonnen:
+- Einfach mal zu einer Mülltonne gehen und F2 drücken 🙂 
+
+Drugs
+- Anpassung vom Code (performance)
+- one man's trash is another man's treasure :)
+- Mehr Tipps werden kommen 
+
+Jobs
+- Anpassung vom Code (performance)
+
+Paperscript
+Was ist das? - z. B. die LS Fresh Karte oder Zeitung
+- Andere Animation ohne fette Zeitung die manchmal Buggy ist
+
+F5 Menü:
+- Wird deaktiviert, da veraltet und nicht mehr relevant für uns + ein Hotkey mehr 😄
+
+Raubüberfälle Fleeca und Pacific:
+- Angepasst (Fehler waren noch vorhanden)
+- lukrativer
+- gefährlicher
+- richtig große Klunker
+- Hacking
+- Du brauchst Brain und du brauchst Skill
+- Wichtige Informationen 🙂
+
+Mülltonnen:
+- Händler der eure Pfandflaschen haben will und mehr implementiert 
+
+Tankstelle:
+- Man bekommt nun wenn man sich einen Kanister kauft auch einen Kanister ins Inventar - Ja, Ihr könnt den auch nun ausrüsten und Zeug damit machen 😄
+- Ja Ihr könnt mehrere Kaufen 
+- Ja die haben noch kein Bild deswegen sehen die aus wie eine Gusenberg weil das unser default.jpg ist 🙂
+
+Ingame Gesetze lesen:
+- Kein Problem
+- In der Bücherei findet Ihr Prof. Dr. Dr. F. Kniesel
+- Bei der Polizei und im Gerichtsgebäude gibt es das ebenfalls
+- Ingame PDF
+- Ihr wollt das ausdrucken? - Kein Thema macht mal 😄
+
+Kennzeichen:
+- Fakekennzeichen sind nun vorhanden
+- Falls Ihr euer Originales Kennzeichen verliert könnt Ihr es im Gerichtsgebäude kaufen!
+- OHNE ORIGINALES KENNZEICHEN KÖNNT IHR EUER AUTO NICHT MEHR EINPARKEN!
+
+TONNEN AN EASTEREGGS:
+- mehr brauche ich nicht sagen 
+
+Hotels und die Lager:
+- Lager in den Hotels funktionieren jetzt
+- Sind relativ groß - werde ich beobachten ob ich es noch etwas kleiner machen werde
+
+Graffiti:
+- Bugfixes
+- Nach 5 Sprays war damals ende. jetzt nicht mehr!
+
+Radio im Auto auf "U":
+- Autoradios wurden zurückgesetzt
+- Ansonsten kommt das dazu was sich viele gewünscht haben
+- viel Spaß damit 😄
+FÜR STREAMER wegen DMCAs:
+Mit [T] /streamermode um Musik vom Server auszuschalten und wieder /streamermode um diese wieder einzuschalten
+
+Blitzer:
+- Blitzer werden nochmal angepasst
+- Ja es gibt nun Props als Blitzer
+- Jeder hasst Blitzer. Lasst eurer Wut freien Lauf 🙂
+
+Warehouses:
+- SCHWABE bei mir bitte vorbeikommen - wir testen das gemeinsam!
+- Bugfix für Lagerhäuser
+
+Geheime Updates:
+- Ja vieles Zeug was ich verheimliche 🙂
+XpWD)مyvdb2�-��l04K,�8�������&�YKL 
+
