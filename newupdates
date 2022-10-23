@@ -1,59 +1,7 @@
-Geheimes Update für nebenbei, Bugfixes, Anpassungen und Zukunftsplanung:
-Ölrouten, Öl, Benzin, Diesel und weiteres:
--> Komplette Ölroute überarbeitet
--> Öl hat nun mehrere Verwendungszwecke
--> JEDER ÖLBOHRTURM IN DEM GEBIET IST ANSTEUERBAR!
--> Um abzubauen einfach auf die Kreise klicken die ich rot markiert habe :)
--> Verschiedene Ölsorten für verschiedene Zwecke und Weiterverarbeitung
--> Ihr seid nun nicht mehr von Tankstellen abhängig weil ich euch selbst Diesel/Super herstellen könnt und auch einlagern könnt
---> Ihr könnt dies nun auch verkaufen -> Verkäufer hat einen konstanten Preis!
-FEEDBACK IST ERWÜNSCHT PER TICKET! - Wenn die Herstellung noch nicht optimal ist so schreibt dies einfach konstruktiv in ein Ticket!
--> Mehr unter Screenshots
-
-Maps:
--> Zurzeit wird ein neuer Hafen sowie ein neuer Bootsverkäufer aufgebaut :)
--> Shelltanken habe ich entfernt und dafür die LTD Tanken von GABZ verwendet (Performance und Shell hat eindeutig zu hohe Benzinpreise)
--> Diverse Verschönerungen und Performanceupdates an Maps sowie entfernen von einigen verbuggten Experimenten die ich rumlaufen gelassen habe
-
-MDT/MDW:
-*-> Polizei/Medictool wird weiter bearbeitet -> gibt mehrere DB Probleme bei der Datenauslesung -> mehr demnächst 🙂
-
-Tuningsystem und Parkende Autos sowie deren Tuningteile und das verschwinden dieser:
--> Tuningsystem Update -> Code cleanup sowie Bugfixes
-Parking:
--> Update und Bugfixes bzgl. der Übernahme von Tuningteilen
--> Fahrzeuge duplizieren sich gelegentlich noch random -> dafür suche ich eine Lösung -> Falls das bei euch passieren sollte so meldet es in einem Ticket!
--> Performanceupdate -> Rangeanpassung bei Fahrzeugspawn
-
-Wandernder Schwarzhändler (roter Kreis auf der Map):
--> Bugfixes
--> NPC wechselt nun öfter den Standort damit er öfter von jedem Spieler angetroffen kann der Ihn sucht!
--> Machete wurde aus seinem Angebot entfernt und er wird auch weitere und mehrere Use Cases haben in Zukunft
-
-Ladenräube:
--> Ladenräube komplett überarbeitet
--> Ladenräube nun nur noch ab 1 Polizisten möglich
--> Anpassung aller Läden je nach Distanz zum aktuellen PD
--> Anpassung der Animation des NPCs sowie der Animation mit dem C4
--> C4 hat nun mehr Bums!
--> Berechnung der Werte durch den Arithmetischen Durchschnittswert von 75$ in Relation zur Wirtschaft auf dem Server um die Geldmenge nicht massiv zu erhöhen und ein gutes gebalanctes Rauben in Anbetracht der Strafe zu ermöglichen
--> Räube sind nun dynamischer und der Spieler entscheidet selbst wielange dieser geht - Allerdings sei gesagt je länger umso lukrativer
-
-Autohaus:
--> 10 neue Bikes im Angebot beim Autohaus
--> Vorerst war es das letzte Update von Fahrzeugen. Wir werden Fahrzeuge auch recyclen und euch früh genug sagen wann wir diese Abschaffen um auch mal Fahrzeuge durchzurotieren und den Server nicht zuzumüllen und euch auch den Anreiz geben das Autohaus öfter zu besuchen damit das Autohausteam auch mal mehr zutun hat
--> Alle Bikes sind optimiert und verbrauchen maximal 10 MB an physikalischem Speicher
--> Custom Bikes sind auch dabei
-
-Housing:
--> komplett angepasst um weiter vorzugehen und dem release näher zu kommen
-
-Rockstar Editor:
--> Rockstar Editor auf dem Mainserver hinzugefügt 
--> [T] /rockstar um auf das Menü zuzugreifen
--> Das ist für Aufnahmen :)
-
-Geheime Updates:
-- Ja vieles Zeug was ich verheimliche 🙂
-XpWD)مyvdb2�-��l04K,�8�������&�YKL 
-
+Halloween ist da!
+-> Informationen sind in der Weazle News APP im Handy zu finden
+-> Trick or Treat
+-> Eventzeitraum: 23.10 (21:30) - 06.1 (23:59)
+-> Nehmt an den Festlichkeiten Teil und sammelt euch Coins 
+-> Wie bekomme ich Coins? -> Kauft euch eine Laterne am Würfelpark und geht zu den orangenen Häusern
+-> 100 Coins = 1 Fahrzeug -> MACHT DAFÜR BITTE EIN TICKET AUF!!
