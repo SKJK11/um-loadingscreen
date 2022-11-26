@@ -1,7 +1,71 @@
-Halloween ist da!
--> Informationen sind in der Weazle News APP im Handy zu finden
--> Trick or Treat
--> Eventzeitraum: 23.10 (21:30) - 06.11 (23:59)
--> Nehmt an den Festlichkeiten Teil und sammelt euch Coins 
--> Wie bekomme ich Coins? -> Kauft euch eine Laterne am Würfelpark und geht zu den orangenen Häusern
--> 100 Coins = 1 Fahrzeug -> MACHT DAFÜR BITTE EIN TICKET AUF!!
+WL V2 und WL V1 Anpassungen:
+▫️Anpassung des Handys (Geht voran - Bugfixes grundsätzlich)
+▫️Anpassung von Struktur im Backend für bessere Performance
+▫️Datenbank aufgeräumt
+__
+▫️Komplette Überarbeitung der Shopräube
+▫️Shopräube sind nun nur noch mit min. 2 Polizisten verfügbar
+▫️Mehr Ausbeute aber der Verkäufer braucht einfach länger da er doch etwas älter geworden ist
+▫️Es gibt 5 Zonen (Denkt euch einfach Kreise jeweils 500 Meter wird diese erweitert)
+▫️Zone 0, Zone 1, Zone 2, Zone 3, Zone 4 -> Zone 0 = Unmittelbar neben dem PD = Maximale Ausbeute -> Zone 4 ist die mit der geringsten Beute!
+▫️Sprengung ist nun deutlich lukrativer als nur stumpf die Kasse leerzumachen
+▫️Multiplayer Räube lohnen sich mehr für die Effizienz
+▫️C4 braucht nun weniger Zeit 
+▫️FEEDBACK BITTE!
+__
+▫️Der wandernde Händler wandernd nun nicht mehr, da er einfach keine Lust mehr auf 500 Miles Song hat
+▫️Der Händler dafür steht bei der Westenherstellung (Ich möchte hier nicht zu viel Spoilern und die Leute nicht bestrafen die bereits etwas wissen)
+__
+▫️Implementierung für mehr Features des Autohauses
+▫️Die Kennzeichenstelle wird nun auch nur noch beim Autohaus zur Verfügung stehen damit man nicht dauerhaft sein Kennzeichen wechseln kann (soll auch spontane Kennzeichenwechsel unterbinden bei Räuben)
+▫️Eigene Route für das Autohaus wird erarbeitet damit das Autohaus mehr Interaktion mit Kunden hat 
+[-W-] Shikai — 22.11.2022 23:13
+WL V2 und WL V1 weitere Anpassungen:
+▫️Maps angepasst für Weihnachten 🙂
+▫️Versteckten Stuff hinzugefügt
+▫️Die Schmelze hat ein Rework bekommen und hat nun ein Tor für größere Ladungen und eine Waschstation wird ergänzt damit die andere Mine ein weiteres Rework bekommen kann und alles etwas zentraler ist
+__
+Backup des gesamten Servers angelegt für V2
+▫️Diverse Handy fixes (ist sehr viel backend gewesen um viele Bugs, Userinterface, unklickbares und Bugs mit Apps gefixt)
+-> Dies kommt am Samstag erst dazu, weil ich noch einiges erledigen muss
+▫️Sack für die Geiselnahme ist nun im Schwarzmarkt vorhanden und funktioniert einwandfrei (Bei Problemen, also wenn der Sack nicht ausgezogen werden kann hilft leider erstmal nur ein relog) [Dies hat damals nicht richtig funktioniert, ist aber inzwischen einwandfrei und ohne bedenken möglich]
+▫️Waffen ziehen überarbeitet, angepasst und auf das aktuelle Framework aktualisiert
+▫️Waffen auf dem Rücken angepasst, überarbeitet und auf das aktuelle Framework aktualisiert
+▫️Inventory Bugfixes und Dupefixes sowie Performance (Ist sehr viel gewesen)
+▫️Backend Add On Ordner gelöscht, da dieser nicht mehr gebraucht wird
+__
+▫️Schmelze und Bergwerk etwas überarbeitet
+▫️Waschposition angepasst, diese ist nun in der Schmelze zu finden (zentral um alles einfacher zu machen)
+▫️Blips deaktiviert (Blips = Kartenmarkierung)
+▫️Input bei der Schmelze auf 5 reduziert
+▫️Input beim Waschen angepasst 10 Steine gewaschen = 10 gewaschene Steine 
+__
+WL V1 und WL V2 Anpassungen und Bugfixes:
+Handy:
+▫️Movement während des Handys gefixt (war verbuggt)
+▫️Commands geadded für weniger Support arbeiten [Self-Service] (Handy verschoben oder zoom verkackt? Einfach selbst fixen per /resetPhonePos und /resetZoom)
+▫️Dispatch-System gefixt für Medics als auch für die Polizei (Wird nun korrekt angezeigt und gibt nun 2 Benachrichtigungen sowie ein blinkendes Icon auf der Map)
+▫️Instagram gefixt
+▫️Kamera gefixt
+▫️Profil anderer Instagramnutzer gefixt
+▫️Zu große Icons für Navigation gefixt
+▫️Uber Eats hinzugefügt (Lieferanten Job der Pizzeria für nebenbei)
+▫️Handy Steuerung im Auto angepasst und gefixt
+▫️Klingeltöne hinzugefügt
+▫️State App gefixt
+▫️DarkNet App hinzugefügt (Tor Browser)
+▫️In Zukunft werden wir über die Tor App "Hinweise" Streuen die man sich erkaufen kann (Es wird immer nur der Starthinweiß hinzugefügt und bei unzureichender Informationen dann immer mehr)
+▫️Crypto entfernt
+▫️Sellix App vorzeitig entfernt kommt aber bald zurück!
+Parking:
+▫️Erneuter versuch Parking zu fixen >:]
+-> Hat funktioniert 🙂
+Diverse Fixes:
+▫️Elendigen Rechnungsscript Bug gefunden und zerstört 
+__
+WL V1 und WL V2 Bugfixes:
+▫️Parking ist nun gefixt und sollte einwandfrei funktionieren (hat es über die Nacht -> Wir testen das jetzt langfristig)
+▫️Leitstellen (Bugfix)
+▫️Leitstellen DB -> Phones fixes -> Leitstellen sollten nun funktionieren
+▫️Props (DB auf WL V1 ersetzt mit WL V2) -> Aktualisierung der neuen Props
+▫️Backend -> Drugs Anpassungen
