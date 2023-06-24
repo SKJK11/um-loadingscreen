@@ -1,47 +1,52 @@
-Unsichtbare Kollisionen:
-▫️Die unsichtbaren Kollisionen während dem Fahren sind auf das Essen/Trinken zurückzuführen. Das heißt, wenn Ihr während der Fahrt etwas esst und das "Item" nach Abschluss wegwerft, wird es zur Kollision kommen.
+Updates & Bugfixes:
+(Gilt ab 20.06 - 04:00)
+Essen, trinken und Alkohl:
+▫️Altes System wieder komplett revidiert
+▫️Neues System implementiert
+▫️Essen und Trinken im Auto ist ab jetzt kein Problem mehr
+▫️Alle Positionen von allen Props(Gegenständen) beim Essen/Trinken angepasst
+▫️Alkoholkonsum hat nun seine Konsequenz
+▫️Maximales Performanceupdate 0ms bei Inaktivität
+▫️DB aufgeräumt
+Weiteres erfahrt Ihr in diesem Video 🙂
+https://youtu.be/nVWnvKihdX8
 
-TL;DR Bitte zurzeit nichts essen während der Fahrt! Ich muss das erst alles durchtesten.
+
+Update:
+(Gilt ab dem 23.06 -  04:00)
+Waffenläden und Trainingszentrum der Polizei:
+▫️Das LSPD hat nun ein eigenes Trainingsgebäude um vernünftige Schießübungen zu machen ohne von Zivis gestört zu werden
+▫️Fancy Waffenläden hinzugefügt für alle Parteien
+▫️Die Bad Guys/Zivis kriegen natürlich auch ein Trainingsgebäude dies ist auf den Flugplatz bei Sandy zu finden(Grand Senora Desert) 
 
 Update & Bugfixes:
-(Gilt ab dem 24.05.2023 - 04:00)
+(Gilt ab dem 24.06 - 04:00)
+Funkgeräte:
+▫️Neue und optimierte Funkgeräte
+▫️Performanceupdate bzgl. ms
+▫️Optimierung für Saltychat
+▫️Deaktivierung von ungenutzten Saltychat Funktion des Radios
+▫️Umlegung im Backend
+▫️Bugfix bzgl. verlassen/joinen eines Funkkreises bei Tod (Kein Reconnect mehr nötig)
+▫️IHR MÜSST EUCH KEIN NEUES FUNKGERÄT KAUFEN! DIE IMPLEMENTIERUNG IST NAHTLOS!!
+▫️Custom Prop
+▫️Customizable auf eure Bedürfnisse
+▫️Unendliche Funkchannel für euch!
+▫️Eigene Funkkreise falls Ihr privat sein wollt
+▫️Funkkreise haben nichts mit dem Jobfunk zutun
+▫️Administrative möglich durch Funkgerät um zu sehen, wer im Funkkreis ist
+▫️Störse▁ ▂ ▃ ▄ ▅ ▆ ▇ █ 
+☰☲☱☴▣❏ ❐ ◨▨◩❑❒□■◙▢◘◧◪ ◫ ▤ ▥ ▦ ▧ ▩▀ ▄▱▰▪▫▬▭▮▯◊◈☵☶☳☷ (Schweres Rätsel!)
+▫️Die Channel von 00.00 - 2.99 sind den staatlichen Fraktionen unterlegen
+▫️Polizei von 00.01 - 01.00 (01.00 ist Kooperationsfunk mit dem MD und dem ACLS)
+▫️LSMD und ACLS von 01.00 - 2.00 MHz -> LSMD bitte unter dem 01.00 MHz und ACLS unter 02.00
+Funktionsbeschreibung:
+▫️siehe Video 🙂
+https://www.youtube.com/watch?v=TU_DjJj6YWs
 
-UwU:
-▫️Crafting + Shop für´s Rauchen entfernt (wird nicht benötigt)
-▫️Regale sowie Props wurden entfernt und gefixt 
-
-Maps:
-▫️Fehlende Props hinzugefügt 
-▫️Mine (Nicht das Bergwerk!) wurde nun aufgehellt!
-
-Mine(Nicht Bergwerk):
-▫️Erze sind nun angepasst und es gibt nun in der Mine als auch im Bergwerk fast die gleichen Erze (Bergwerk hat natürlich das seltenere Zeug - Mine ist nur für Ressourcen da!)
-▫️Verarbeiter in der Schmelze hinzugefügt
-▫️Drops von Bauzxit, Platin, Silber erhöht / Drop von Lithium deutlich erhöht!
-▫️Anpassung der Gewichte für alle Erze!
-▫️Preis von Bismuth um 75% reduziert
-▫️Verkaufen von Barren geht nun deutlich schneller
-
-(Gilt ab dem 18.05.2023 - 17:00)
-Krankenhaus:
-▫️Krankenhaus Spawnposition angepasst um nicht mehr durch die Map zu fallen
-▫️Anpassung einiger Rechtschreibfehler
-▫️Rollstühle sind nun auf maximal 15 KM/h beschränkt und sind nicht mehr in der Lage schneller zu fahren
-▫️Rollstühle verbrauchen bzw. besitzen nun keinen Treibstoff mehr und fahren ohne 🙂
-
-Allgemeines:
-▫️Bugfix der unsichtbaren Kollisionen
-▫️Das GTA-Autoradio ist nun komplett deaktiviert (Auf "U" findet Ihr das Custom Autoradio)
-▫️Im Zuge wurden Ressourcen für das GTA-Autoradio deaktiviert (Darunter fällt Dolph FM sowie die Verschönerung der Symbole)
-▫️NPC-Autofahrer wurden etwas reduziert um weniger Traffic zu generieren
-
-(Gilt ab dem 16.05.2023 - 04:00)
-
-Allgemeines:
-▫️Komplette Überarbeitung der Props die für das Essen/Trinken verwendet werden
-▫️Anpassungen der Props, damit diese gut in der Hand liegen und nicht irgendwo rumfliegen
-▫️Anpassung aller Suppen, Pizzen, Wraps, Taccos, Salate, Burger, Sandwich, Gemüse, Obst, Donuts, Muffins, Kuchen, alle sonstigen Backwaren und alles sonstige an Fastfood
-▫️Anpassung aller nicht alkoholischen als auch alkoholischen Getränke
-▫️Hochprozentig alkoholisches ist nun nicht mehr auf "EX" trinkbar (Um die Wirkung des Alkohols besser im Script zu implementieren)
-▫️Performanceupdate
-(Leider kann ich nur einen Bruchteil der Props uploaden - Es sind aber deutlich mehr als ich per Discord vernünftig uploaden kann) 
+Update:
+(Gilt ab 24.06 - 17:00)
+Schwarzpulver:
+▫️Anpassung der Schwarzpulverroute um einige Komponente um Schwarzpulver authentischer herzustellen zu lassen
+▫️Anpassung der Position des Schwarzpulverherstellers, da eine andere Route mit der Position des Herstellers in Verbindung steht
+▫️Neue Position des Herstellers ist für Kenner der Waffenroute zu 100% ersichtlich, fahrt diese einfach mal ab
